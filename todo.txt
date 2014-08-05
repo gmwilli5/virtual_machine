@@ -1,0 +1,1 @@
+make virtual machine with multicore and memory controller
